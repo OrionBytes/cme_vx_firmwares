@@ -1,0 +1,61 @@
+body {
+	font-family: Times New Roman, Times, serif;
+	font-size: 9pt;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #aaaaab;
+	color: #000000;
+}
+.text1{
+	font-family: Times New Roman, Times, serif;
+	font-size: 9pt;
+	font-weight: bolder;
+	color: #FFFFFF;
+	  }
+.text2{
+	font-family: Times New Roman, Times, serif;
+	font-size: 9pt;
+	font-weight: bolder;
+	color: #D90000;
+	  }
+td {
+	font-family: Times New Roman, Times, serif;
+	font-size: 9pt;
+	color: #000000;
+}
+
+th {
+	font-family: Times New Roman, Times, serif;
+	font-size: 9pt;
+	color: #000000;
+}a:link {
+	text-decoration: none;
+	color: #000000;
+}
+a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+a:active {
+	color: #000000;
+	text-decoration: none;
+}
+.pt9:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+.pt9 {
+	color: #000000;
+	text-decoration: none;
+}
+.pr9grey {
+	font-size: 9pt;
+	color: #666666;
+	text-decoration: none;
+}

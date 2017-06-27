@@ -1,0 +1,36 @@
+BODY {
+	BACKGROUND-COLOR: #aaaaab; COLOR: #000000; FONT-FAMILY: Times New Roman, Times, serif; FONT-SIZE: 9pt; MARGIN: 0px
+}
+.text1 {
+	COLOR: #ffffff; FONT-FAMILY: Times New Roman, Times, serif; FONT-SIZE: 9pt; FONT-WEIGHT: bolder
+}
+.text2 {
+	COLOR: #d90000; FONT-FAMILY: Times New Roman, Times, serif; FONT-SIZE: 9pt; FONT-WEIGHT: bolder
+}
+TD {
+	COLOR: #000000; FONT-FAMILY: Times New Roman, Times, serif; FONT-SIZE: 9pt
+}
+TH {
+	COLOR: #000000; FONT-FAMILY: Times New Roman, Times, serif; FONT-SIZE: 9pt
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.pt9:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.pt9 {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.pr9grey {
+	COLOR: #666666; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
